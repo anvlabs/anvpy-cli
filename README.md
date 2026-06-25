@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/pypi/v/anvpy?style=for-the-badge" alt="PyPI">
-  <img src="https://img.shields.io/pypi/pyversions/anvpy?style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT">
-  <img src="https://img.shields.io/badge/Status-Alpha-orange?style=for-the-badge" alt="Alpha">
+  <img src="https://img.shields.io/pypi/v/anvpy?style=flat-square&color=3f48cc&labelColor=24292e" alt="PyPI">
+  <img src="https://img.shields.io/pypi/pyversions/anvpy?style=flat-square&color=3f48cc&labelColor=24292e" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-Android-3f48cc?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/License-MIT-3f48cc?style=flat-square" alt="MIT">
+  <img src="https://img.shields.io/badge/Status-Alpha-3f48cc?style=flat-square" alt="Alpha">
 </p>
 
 <p align="center">
