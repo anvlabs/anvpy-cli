@@ -5,7 +5,8 @@
 <h1 align="center">AnvPy CLI</h1>
 
 <p align="center">
-  Official CLI for AnvPy to run Python projects on Android.
+  <strong>Official CLI for AnvPy</strong><br>
+  Sync and run Python projects on Android directly from your computer.
 </p>
 
 <p align="center">
@@ -25,6 +26,8 @@ pip install anvpy
 </p>
 
 ---
+
+# Features
 
 **AnvPy CLI** is the official command-line interface for **AnvPy (Android Versatile Python)**, a platform that enables developers to build and run Python applications on Android.
 
