@@ -5,13 +5,15 @@
 <h1 align="center">AnvPy CLI</h1>
 
 <p align="center">
-  Official CLI for AnvPy to sync and run Python projects on Android.
+  Official CLI for AnvPy to run Python projects on Android.
 </p>
 
 <p align="center">
-
-<!-- Badges will go here -->
-
+  <img src="https://img.shields.io/pypi/v/anvpy?style=for-the-badge" alt="PyPI">
+  <img src="https://img.shields.io/pypi/pyversions/anvpy?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT">
+  <img src="https://img.shields.io/badge/Status-Alpha-orange?style=for-the-badge" alt="Alpha">
 </p>
 
 <p align="center">
