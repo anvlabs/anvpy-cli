@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="anvpy/assets/icon.png" alt="AnvPy" width="850">
-</p>
-
-<p align="center">
-
-...badges...
-
+  <img src="anvpy/assets/icon.png" alt="AnvPy" width="120">
 </p>
 
 # AnvPy CLI: Official CLI for AnvPy on Android
