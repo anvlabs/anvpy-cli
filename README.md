@@ -134,14 +134,6 @@ the CLI automatically:
 
 ---
 
-# Why AnvPy CLI?
-
-Developing for Android often involves repetitive deployment steps such as manually copying project files, connecting a USB cable, configuring ADB, or setting up custom synchronization workflows before every test.
-
-AnvPy CLI eliminates these repetitive tasks by automatically discovering your Android device, synchronizing only modified files, and launching your project with a single command over your local network. This significantly reduces iteration time, allowing you to focus on building your application instead of managing deployment.
-
----
-
 # License
 
 This project is licensed under the MIT License.
