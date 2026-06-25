@@ -29,7 +29,6 @@ pip install anvpy
 
 The CLI provides a seamless desktop development workflow by synchronizing your project from your computer to your Android device and launching it directly in the AnvPy application with a single command.
 
-<hr>
 
 ## Features
 
