@@ -45,7 +45,7 @@ The CLI provides a seamless desktop development workflow by synchronizing your p
 * Computer and Android device connected to the same local network (same Wi-Fi network or mobile hotspot)
 
 
-# Installation
+## Installation
 
 Install directly from PyPI:
 
@@ -54,7 +54,7 @@ pip install anvpy
 ```
 
 
-# Quick Start
+## Quick Start
 
 Navigate to your project directory containing `main.py`:
 
@@ -74,7 +74,7 @@ Or specify a project path:
 anvpy run --path="C:\Projects\MyProject"
 ```
 
-# Project Structure
+## Project Structure
 
 AnvPy expects your project to contain a `main.py` entry point.
 
@@ -89,7 +89,7 @@ MyProject/
 └── ...
 ```
 
-# How It Works
+## How It Works
 
 When you execute:
 
@@ -106,7 +106,7 @@ the CLI automatically:
 5. Removes files deleted from the Android project.
 6. Launches the synchronized project automatically on the device.
 
-# Example Output
+## Example Output
 
 ```text
 [ACTION] Connecting to device...
@@ -123,6 +123,6 @@ the CLI automatically:
 [OK] Project started
 ```
 
-# License
+## License
 
 This project is licensed under the MIT License.
