@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anvpy"
+version = "0.1.0"
+description = "Official CLI for AnvPy to sync and run Python projects on Android."
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+
+authors = [
+    { name = "Amar", email = "techanvpy@gmail.com" },
+    { name = "Ajay", email = "ajay@vissora.cloud" }
+]
+
+keywords = [
+    "python",
+    "android",
+    "cli",
+    "development",
+    "sync"
+]
+
+dependencies = [
+    "requests"
+]
+
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Utilities"
+]
+
+[project.scripts]
+anvpy = "anvpy.main:main"
