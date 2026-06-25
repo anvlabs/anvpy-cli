@@ -1,4 +1,14 @@
-# AnvPy CLI
+<p align="center">
+  <img src="assets/icon.png" alt="AnvPy" width="850">
+</p>
+
+<p align="center">
+
+...badges...
+
+</p>
+
+# AnvPy CLI: Official CLI for AnvPy on Android
 
 **AnvPy CLI** is the official command-line interface for **AnvPy (Android Versatile Python)**, a platform that enables developers to build and run Python applications on Android.
 
