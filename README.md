@@ -5,7 +5,7 @@
 <h1 align="center">AnvPy CLI</h1>
 
 <p align="center">
-  Official command-line interface for AnvPy.
+  Official CLI for AnvPy development.
 </p>
 
 <p align="center">
