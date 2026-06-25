@@ -32,17 +32,17 @@ The CLI provides a seamless desktop development workflow by synchronizing your p
 
 ## Features
 
-* One command project synchronization and execution
-* Automatic device discovery on the local network
-* Incremental synchronization using file hashing 
-* Simple setup with automatic connection management
+* One command project synchronization and execution.
+* Automatic device discovery on the local network.
+* Incremental synchronization using file hashing.
+* Simple setup with automatic connection management.
 
 
 ## Requirements
 
-* Python 3.8 or later
-* AnvPy installed on an Android device
-* Computer and Android device connected to the same local network (same Wi-Fi network or mobile hotspot)
+* Python 3.8 or later.
+* AnvPy X installed on an Android device.
+* Computer and Android device connected to the same local network (same Wi-Fi network or mobile hotspot).
 
 
 ## Installation
