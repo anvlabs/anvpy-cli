@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/pypi/v/anvpy?style=for-the-badge&logo=pypi&logoColor=white&color=3776AB" alt="PyPI">
   <img src="https://img.shields.io/pypi/pyversions/anvpy?style=for-the-badge&logo=python&logoColor=white&color=306998" alt="Python">
   <img src="https://img.shields.io/badge/Platform-Android-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/License-MIT-4B5563?style=for-the-badge" alt="MIT">
+  <img src="https://img.shields.io/badge/License-MIT-1F2328?style=for-the-badge" alt="MIT">
   <img src="https://img.shields.io/badge/Status-Alpha-D97706?style=for-the-badge" alt="Alpha">
 </p>
 
