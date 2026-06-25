@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" alt="AnvPy" width="850">
+  <img src="anvpy/assets/icon.png" alt="AnvPy" width="850">
 </p>
 
 <p align="center">
