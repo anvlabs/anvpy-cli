@@ -25,6 +25,9 @@ pip install anvpy
 </p>
 
 
+<hr>
+
+
 **AnvPy CLI** is the official command line interface for **AnvPy (Android Versatile Python)**, a platform that enables developers to build and run Python applications on Android.
 
 The CLI provides a seamless desktop development workflow by synchronizing your project from your computer to your Android device and launching it directly in the AnvPy application with a single command.
