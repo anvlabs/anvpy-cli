@@ -37,7 +37,6 @@ The CLI provides a seamless desktop development workflow by synchronizing your p
 * Incremental synchronization using file hashing 
 * Simple setup with automatic connection management
 
----
 
 ## Requirements
 
@@ -45,7 +44,6 @@ The CLI provides a seamless desktop development workflow by synchronizing your p
 * AnvPy installed on an Android device
 * Computer and Android device connected to the same local network (same Wi-Fi network or mobile hotspot)
 
----
 
 # Installation
 
@@ -55,7 +53,6 @@ Install directly from PyPI:
 pip install anvpy
 ```
 
----
 
 # Quick Start
 
@@ -77,8 +74,6 @@ Or specify a project path:
 anvpy run --path="C:\Projects\MyProject"
 ```
 
----
-
 # Project Structure
 
 AnvPy expects your project to contain a `main.py` entry point.
@@ -93,8 +88,6 @@ MyProject/
 ├── data/
 └── ...
 ```
-
----
 
 # How It Works
 
@@ -113,8 +106,6 @@ the CLI automatically:
 5. Removes files deleted from the Android project.
 6. Launches the synchronized project automatically on the device.
 
----
-
 # Example Output
 
 ```text
@@ -131,8 +122,6 @@ the CLI automatically:
 [ACTION] Running project: MyProject
 [OK] Project started
 ```
-
----
 
 # License
 
