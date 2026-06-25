@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/pypi/v/anvpy?style=for-the-badge&logo=pypi&logoColor=white&color=3776AB" alt="PyPI">
   <img src="https://img.shields.io/pypi/pyversions/anvpy?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Platform-Cross--Platform-34A853?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Cross Platform">
+  <img src="https://img.shields.io/badge/OS-Cross-Platform-34A853?style=for-the-badge&logo=gnubash&logoColor=white" alt="Cross Platform">
   <img src="https://img.shields.io/badge/License-MIT-D97706?style=for-the-badge&logo=bookstack&logoColor=white" alt="MIT">
   <img src="https://img.shields.io/badge/Release-Alpha-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Release">
 </p>
