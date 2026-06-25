@@ -5,7 +5,7 @@
 <h1 align="center">AnvPy CLI</h1>
 
 <p align="center">
-  Official CLI for AnvPy to run Python projects on Android.
+  Official command-line interface for AnvPy.
 </p>
 
 <p align="center">
